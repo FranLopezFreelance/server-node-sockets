@@ -1,6 +1,6 @@
 # Server Node Sockets
 
-- Instalión de los módulos de Node
+- Instalación de los módulos de Node
 
     $ npm install
 
@@ -8,7 +8,7 @@
 
     $ tsc -w
 
-- Levantar Servidor
+- Levantar Servidor (default: 5000)
 
     $ nodemon dist
 
